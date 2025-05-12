@@ -2,6 +2,7 @@
   --background: #f4e6d9;
   --primary-color: #fff;
   --secondary-color: #000;
+  --heading-main-color: #333333;
   --heading-color: #8a3b24;
   --text-main-color: #3b3b3b;
   --text-sec-color: #5b2c37;
@@ -79,7 +80,7 @@ h6 {
 h1 {
   font-size: 40px;
   margin-bottom: 0.5em;
-  color: var(--secondary-color);
+  color: var(--heading-main-color);
 }
 h2 {
   font-size: 32px;
